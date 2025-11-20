@@ -14,7 +14,7 @@ Welcome to my robotics projects showcase! This repository contains demonstration
   - Computer vision for hand gesture estimation
   - Robotics simulation with Issacc Lab
 - **Demo**:
-  - ![First look at 3D printing](assets/images/3d_print_first_look.mp4)
+  - ![First look at 3D printing](assets/videos/3d_print_first_look.mp4)
   - ![Hand gensture copy demo](assets/videos/leap_hand_mimic_R.mp4)
 
   
