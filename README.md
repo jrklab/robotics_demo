@@ -1,24 +1,22 @@
 # Robotics Projects Portfolio
 
-Welcome to my robotics projects showcase! This repository contains demonstrations and documentation of various robotics projects I've worked on.
+Welcome to my robotics projects showcase! This repository contains demonstrations and documentation of various robotics projects I've worked on. Most of them are open source projects.
 
 ## Projects
 
 ### LEAP Hand Project
 - **Description**: A sophisticated robotic hand project focusing on dexterous manipulation and human-like grasping capabilities.
-- **Technologies Used**:
-  - ROS (Robot Operating System)
-  - Custom-designed hand mechanisms
-  - Advanced motor control systems
-  - Computer vision for object detection
-  - Machine learning for grasp planning
-
+- **Open Source Website**: https://v1.leaphand.com/
+- **Software Repo**: https://github.com/jrklab/LEAP_Hand_API
+- **Learnings**:
+  - 3D printer and CAD model editing
+  - Servo motor interface and control
+  - Computer vision for hand gesture estimation
+  - Robotics simulation with Issacc Lab
 - **Demo**:
-  <!-- Once you upload your media files, we can add them like this: -->
-  <!-- ![LEAP Hand Overview](assets/images/leap-hand-overview.jpg) -->
-  <!-- Add video demonstrations: -->
-  <!-- - [Grasping Demo](assets/videos/leap-hand-grasping.mp4) -->
-  <!-- - [Manipulation Demo](assets/videos/leap-hand-manipulation.mp4) -->
+  - ![First look at 3D printing](assets/images/3d_print_first_look.mp4)
+  - ![Hand gensture copy demo](assets/videos/leap_hand_mimic_R.mp4)
+
   
   *Media files coming soon*
 
@@ -30,7 +28,9 @@ Welcome to my robotics projects showcase! This repository contains demonstration
 
 - **Documentation**: 
   <!-- Add links to detailed documentation when available -->
-  *Detailed documentation coming soon*
+  *Detailed documentation coming soon. Here are some video demonstrations:*
+  - [Grasping Demo](assets/videos/leap-hand-grasping.mp4)
+  - [Manipulation Demo](assets/videos/leap-hand-manipulation.mp4)
 
 ---
 <!-- Template for future projects:
