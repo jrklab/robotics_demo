@@ -15,7 +15,8 @@ Welcome to my robotics projects showcase! This repository contains demonstration
   - Robotics simulation with Issacc Lab
 - **Demo**:
   - ![First look at 3D printing](assets/videos/3d_print_first_look.mp4)
-  - ![Hand gensture copy demo](assets/videos/leap_hand_mimic_R.mp4)
+  - ![Hand gensture copy demo](https://youtu.be/e_9Qufwlrpk)
+  - [![Hand gesture copy demo](https://img.youtube.com/vi/e_9Qufwlrpk/hqdefault.jpg)](https://youtu.be/e_9Qufwlrpk)
 
   
   *Media files coming soon*
