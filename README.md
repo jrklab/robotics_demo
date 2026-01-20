@@ -45,7 +45,7 @@ Welcome to my robotics projects showcase! This repository contains demonstration
 ---
 ### Lerobot, SO-101 Arm Project
 - **Description**: An open source robot arm, with teleoperation and policy execution
-- **Open Source Website**: https://robotnanohand.com/
+- **Open Source Website**: https://github.com/TheRobotStudio/SO-ARM100
 - **Software Repo**: https://github.com/jrklab/lerobot
 - **Learnings**:
   - Teleoperate robot arms
@@ -61,6 +61,7 @@ Welcome to my robotics projects showcase! This repository contains demonstration
   - [SmolVLA Evaluation, Huggingface Recording](https://huggingface.co/spaces/lerobot/visualize_dataset?path=%2Fjrkhf%2Feval_so101_smolvla_50k_5060Ti%2Fepisode_0)
 
 - **Key Features**:
+  - [Torque feedback from lead arm to follower arm](https://github.com/jrklab/lerobot/tree/so101_torque_feedback) this feature is useful to prevent motor overload during teleoperation.
 
 - **Documentation**: 
 
@@ -68,7 +69,7 @@ Welcome to my robotics projects showcase! This repository contains demonstration
 
 ### Lerobot, XLerobot/Hrobot Project
 - **Description**: A bimanual robot arm on a mobile base, with teleoperation and policy execution
-- **Open Source Website**: https://robotnanohand.com/
+- **Open Source Website**: https://github.com/Vector-Wangel/XLeRobot
 - **Software Repo**: https://github.com/jrklab/lerobot
 - **Learnings**:
   - More complex hardware setup
@@ -77,6 +78,7 @@ Welcome to my robotics projects showcase! This repository contains demonstration
   - [Robot Assembly](https://youtube.com/shorts/W5k0C1py3m4)
   - [HRobot Teleoperation, 10x speed](https://youtube.com/shorts/UvGjvmk7vwA)
 - **Key Features**:
+  - [Voice control for base and head movement](https://github.com/jrklab/lerobot/tree/hrobot_audio) to control base and head while both hands are occupied by teleoperating both arms. 
 
 - **Documentation**: 
 
