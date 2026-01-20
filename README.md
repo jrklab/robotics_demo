@@ -14,12 +14,9 @@ Welcome to my robotics projects showcase! This repository contains demonstration
   - Computer vision for hand gesture estimation
   - Robotics simulation with Issacc Lab
 - **Demo**:
-  - ![First look at 3D printing](assets/videos/3d_print_first_look.mp4)
-  - ![Hand gensture copy demo](https://youtu.be/e_9Qufwlrpk)
-  - [![Hand gesture copy demo](https://img.youtube.com/vi/e_9Qufwlrpk/hqdefault.jpg)](https://youtu.be/e_9Qufwlrpk)
-
-  
-  *Media files coming soon*
+  - [First look at 3D printing]
+  - [Hand gesture copy demo](https://www.youtube.com/watch?v=e_9Qufwlrpk)
+  - [Finger teleoperation](https://youtube.com/shorts/n_J70cm5Rrg)
 
 - **Key Features**:
   - Multiple degrees of freedom for complex manipulation tasks
@@ -28,12 +25,61 @@ Welcome to my robotics projects showcase! This repository contains demonstration
   - Real-time control and response system
 
 - **Documentation**: 
-  <!-- Add links to detailed documentation when available -->
-  *Detailed documentation coming soon. Here are some video demonstrations:*
-  - [Grasping Demo](assets/videos/leap-hand-grasping.mp4)
-  - [Manipulation Demo](assets/videos/leap-hand-manipulation.mp4)
 
 ---
+### Nano Hand Project
+- **Description**: A 5-finger robot hand with tendor driven joints, with 11 active degrees of freedom.
+- **Open Source Website**: https://robotnanohand.com/
+- **Software Repo**: https://github.com/jrklab/nanohand
+- **Learnings**:
+  - Mechanical assembly with tiny parts
+  - Tendor driven joints
+  - Mimicing human hand is very hard
+- **Demo**:
+  - [Nano hand demo](https://youtube.com/shorts/PZXLxXVz4Kk)
+
+- **Key Features**:
+
+- **Documentation**: 
+
+---
+### Lerobot, SO-101 Arm Project
+- **Description**: An open source robot arm, with teleoperation and policy execution
+- **Open Source Website**: https://robotnanohand.com/
+- **Software Repo**: https://github.com/jrklab/lerobot
+- **Learnings**:
+  - Teleoperate robot arms
+  - Manipulation data collection
+  - AI policy training
+  - AI policy evaluation
+  - Huggingface & W&B integration
+- **Demo**:
+  - [SO-101 Teleoperation](https://youtu.be/ZvbM_f85CxY)
+  - [SO-101 ACT Policy Evaluation, 1x speed](https://youtu.be/m-hsBMpGYXI)
+  - [SO-101 SmolVLA Policy Evaluation, 4x speed](https://youtube.com/shorts/bpogSO8f61Y)
+  - [Pick and Place Demostration Dataset](https://huggingface.co/spaces/lerobot/visualize_dataset?path=%2Fjrkhf%2Fso101_wrist_top_cameras_set_2%2Fepisode_6)
+  - [SmolVLA Evaluation, Huggingface Recording](https://huggingface.co/spaces/lerobot/visualize_dataset?path=%2Fjrkhf%2Feval_so101_smolvla_50k_5060Ti%2Fepisode_0)
+
+- **Key Features**:
+
+- **Documentation**: 
+
+---
+
+### Lerobot, XLerobot/Hrobot Project
+- **Description**: A bimanual robot arm on a mobile base, with teleoperation and policy execution
+- **Open Source Website**: https://robotnanohand.com/
+- **Software Repo**: https://github.com/jrklab/lerobot
+- **Learnings**:
+  - More complex hardware setup
+  - Whole robot integration
+- **Demo**:
+  - [Robot Assembly](https://youtube.com/shorts/W5k0C1py3m4)
+  - [HRobot Teleoperation, 10x speed](https://youtube.com/shorts/UvGjvmk7vwA)
+- **Key Features**:
+
+- **Documentation**: 
+
 <!-- Template for future projects:
 ### [Project Name]
 - **Description**: Brief description of the project
